@@ -1,0 +1,48 @@
+{
+  "name": "Sunny Beach Day",
+  "dataColors": ["#2A9D8F"],
+  "background": "#FFFFFF",
+  "foreground": "#264653",
+  "tableAccent": "#2A9D8F",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "labels": [{
+          "color": {
+            "solid": {
+              "color": "#264653"
+            }
+          },
+          "fontSize": 11
+        }],
+        "title": [{
+          "color": {
+            "solid": {
+              "color": "#264653"
+            }
+          },
+          "fontSize": 14,
+          "fontFamily": "Segoe UI"
+        }]
+      }
+    },
+    "card": {
+      "*": {
+        "categoryLabels": [{
+          "color": {
+            "solid": {
+              "color": "#264653"
+            }
+          }
+        }],
+        "dataLabels": [{
+          "color": {
+            "solid": {
+              "color": "#264653"
+            }
+          }
+        }]
+      }
+    }
+  }
+}
